@@ -1,4 +1,2 @@
 # Game
-
-- Doodle Jump (C#, Unity)
-- Puzzle
+01.Doodle Jump (C#, Unity)
